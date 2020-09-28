@@ -24,7 +24,7 @@ Sample :
 
 ![Farmers Market Finder Demo](Distracted.gif)
 
-Dataset link : [a link](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data) 
+Dataset link : [Distracted dataset](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data) 
 
 2- For sleepy :  from study made by Stanford university Consists of videos made by 27 volunteers we cut these videos into frames of images (one frame per second) Then we classiﬁed these frames to (sleepy or sober) manually.
 
