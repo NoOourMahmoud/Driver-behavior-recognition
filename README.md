@@ -3,7 +3,7 @@ we chosed this project because approximately 1.35 million people die each year a
 
 We implemented a machine learning model which takes its input videos from camera attached to the vehicle of the driver after cutting it into frames we enhance the images with image processing filters, then we determine the driver state as distracted, drunk,sleepy or none of them.
 
-#Datasets used
+# Datasets used
 We used three datasets one for each behavior
 
 1- For distracted :  StateFarm dataset from Kaggle
@@ -40,5 +40,6 @@ Sample :
 ![Farmers Market Finder Demo](Drunk.gif)
 
 Dataset link : [Drunk dataset](https://github.com/vivekverma080698/vivekverma080698-Intoxication-Detection-using-PHOG-LPQ-Facial-Action-Units) 
+
 
 # Preprocessing
