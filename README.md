@@ -43,3 +43,18 @@ Dataset link : [Drunk dataset](https://github.com/vivekverma080698/vivekverma080
 
 
 # Preprocessing
+Face Detection :
+
+We choosed MTCNN pre-trained model for face detection.
+
+Face Alignment :
+
+preprocessing algorithm implemented in Python to adjust face position and angles.
+
+Filters :
+
+filter2D, bilateralFilter, medianBlur and fastNlMeansDenoising.
+
+
+
+
